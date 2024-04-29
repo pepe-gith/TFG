@@ -1,5 +1,5 @@
 <template>
-  <h1>Voy ha hacer cambio 2ª vez 1</h1>
+  <h1>Se queda con cambio 3</h1>
   <ComputedExample />
   
 </template>
